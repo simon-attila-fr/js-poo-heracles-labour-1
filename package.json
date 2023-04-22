@@ -1,0 +1,26 @@
+{
+  "name": "js-poo-heracles-labour-1",
+  "version": "0.1.0",
+  "description": "Heracles learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon-attila-fr/js-poo-heracles-labour-1.git"
+  },
+  "keywords": [
+    "heracles",
+    "nemean",
+    "lion",
+    "poo",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simon-attila-fr/js-poo-heracles-labour-1/issues"
+  },
+  "homepage": "https://github.com/simon-attila-fr/js-poo-heracles-labour-1#readme"
+}
